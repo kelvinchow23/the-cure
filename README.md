@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/ea43d303-7357-4c05-b2b1-cb8a85ad2cb5)
 
 ## Purpose
-The main function of the curing module is for photopolymerization of a sample using a [[UV flood lamp](https://www.amazon.ca/Everbeam-365nm-50W-Black-Light/dp/B08635F9CX/?th=1)], intended for samples in a well plate. 
+The main function of the curing module is for photopolymerization of a sample using a [UV flood lamp](https://www.amazon.ca/Everbeam-365nm-50W-Black-Light/dp/B08635F9CX/?th=1), intended for samples in a well plate. 
 Since UV light poses safety risks, the module includes a motorized tray that slides in and out of a fully enclosed housing. This shields users and the surrounding environment from exposure during operation.
 The module is intended to integrate into an automated workflow where a robot arm can pick and place well plates into the box for curing.
 
@@ -17,9 +17,9 @@ The module is intended to integrate into an automated workflow where a robot arm
 ## Build Overview
 
 This repository includes a three-part guide:
-1. **Electronics:** Build and test the electrical components.
-2. **Mechanical Assembly:** Assemble the tray, enclosure, and motion system.
-3. **Firmware & Control:** Use the provided scripts (or your own) to control the module.
+1. **Electronics:** Build and test the electrical components. Instructions are in the `/electrical` folder. 
+2. **Mechanical Assembly:** Build instructions for the mechanical housing are in the `/mechanical` folder. 
+3. **Firmware & Control:** Use the provided scripts (or your own) to control the module. See **Module Operation** below for operation. 
 
 ## Module Operation
 
@@ -50,3 +50,6 @@ When executed, the current workflow is as follows:
 ## Future Steps
 - **Electronics:** Replace the protoboard with a proper PCB for durability and cleanliness.
 - **Mechanical Housing:** Simplify the housing. The base can likely be reduced from two parts to one. Originally, the two-piece base was added to allow mounting to a plate, which might now be unnecessary with design tweaks.
+
+## Revision History
+- **Revision A** - Updated: 2025-04-14
