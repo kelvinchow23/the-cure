@@ -56,15 +56,15 @@
 
 | #   | Part Name               | Part Qty | Revision | Material | Notes                                                   | Picture Link                                          |
 |-----|--------------------------|----------|----------|----------|---------------------------------------------------------|-------------------------------------------------------|
-| C1  | Tray                     | 1        | A        | ASA      |                                                         | [Tray Image](link_to_image_for_C1)                     |
-| C2  | Actuator Bracket          | 1        | A        | PLA      | Print with any filament, 5X M4 heat sets                | [Actuator Bracket Image](link_to_image_for_C2)         |
-| C3  | Tray Insert              | 1        | A        | ASA      |                                                         | [Tray Insert Image](link_to_image_for_C3)             |
-| C4  | Electronics Mounting Plate| 1        | A        | PLA      | Print with any filament, 6X M3 heat sets                | [Electronics Mounting Plate Image](link_to_image_for_C4)|
-| C5  | UV Outer Base            | 1        | A        | ASA      | This is big, split if necessary                        | [UV Outer Base Image](link_to_image_for_C5)           |
-| C6  | Shield                   | 1        | A        | ASA      | 4X M4 heat sets, 4X M3 heat sets                       | [Shield Image](link_to_image_for_C6)                  |
-| C7  | UV Base Lid              | 1        | A        | ASA      |                                                         | [UV Base Lid Image](link_to_image_for_C7)             |
-| C8  | UV Inner Base            | 1        | A        | ASA      | 12X M4 heat sets, 4X M3 heat sets                      | [UV Inner Base Image](link_to_image_for_C8)           |
-| C9  | Back Connector Panel     | 1        | A        | ASA      | 1X M4 heat sets, 2X M3 heat sets                       | [Back Connector Panel Image](link_to_image_for_C9)    |
+| C1  | Tray                     | 1        | A        | ASA      |                                                         | [Tray Image](mechanical/3D prints and CAD files/png/tray RevA.png)                     |
+| C2  | Actuator Bracket          | 1        | A        | PLA      | Print with any filament, 5X M4 heat sets                | [Actuator Bracket Image](mechanical/3D prints and CAD files/png/actuator bracket RevA.png)         |
+| C3  | Tray Insert              | 1        | A        | ASA      |                                                         | [Tray Insert Image](mechanical/3D prints and CAD files/png/tray insert RevA.png)             |
+| C4  | Electronics Mounting Plate| 1        | A        | PLA      | Print with any filament, 6X M3 heat sets                | [Electronics Mounting Plate Image](mechanical/3D prints and CAD files/png/electronics mounting plate RevA.png)|
+| C5  | UV Outer Base            | 1        | A        | ASA      | This is big, split if necessary                        | [UV Outer Base Image](mechanical/3D prints and CAD files/png/uv outer base RevA.png)           |
+| C6  | Shield                   | 1        | A        | ASA      | 4X M4 heat sets, 4X M3 heat sets                       | [Shield Image](mechanical/3D prints and CAD files/png/shield RevA.png)                  |
+| C7  | UV Base Lid              | 1        | A        | ASA      |                                                         | [UV Base Lid Image](mechanical/3D prints and CAD files/png/uv base lid RevA.png)             |
+| C8  | UV Inner Base            | 1        | A        | ASA      | 12X M4 heat sets, 4X M3 heat sets                      | [UV Inner Base Image](mechanical/3D prints and CAD files/png/uv inner base RevA.png)           |
+| C9  | Back Connector Panel     | 1        | A        | ASA      | 1X M4 heat sets, 2X M3 heat sets                       | [Back Connector Panel Image](mechanical/3D prints and CAD files/png/back connector panel RevA.png)    |
 
 
 *ASA is more UV resistant. Non-ASA parts can be printed with any filament.*
@@ -73,7 +73,7 @@
 
 | #   | Part Name                    | Part Qty | Revision | Notes                                                     |
 |-----|-------------------------------|----------|----------|-----------------------------------------------------------|
-| D1  | Electronics Control Board      | 1        | A        | Refer to the documentation in the electrical folder for BOM, build, and test instructions |
+| D1  | Electronics Control Board      | 1        | A        | Refer to the [documentation here](https://github.com/kelvinchow23/the-cure/tree/main/electrical) for BOM, build, and test instructions |
 
 
 
