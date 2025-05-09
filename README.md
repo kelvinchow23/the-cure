@@ -1,7 +1,8 @@
 # the cure - a UV curing module for well plates
 
 
-![image](https://github.com/user-attachments/assets/ea43d303-7357-4c05-b2b1-cb8a85ad2cb5)
+![image](https://github.com/user-attachments/assets/059c375e-af60-4fa5-8ffc-84d85557fd96)
+
 
 ## Purpose
 The main function of the curing module is for photopolymerization of a sample using a [UV flood lamp](https://www.amazon.ca/Everbeam-365nm-50W-Black-Light/dp/B08635F9CX/?th=1), intended for samples in a well plate. 
