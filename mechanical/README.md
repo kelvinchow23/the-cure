@@ -1,8 +1,9 @@
 ## Bill of Materials (BOM)
 Refer to the spreadsheet for the full bill of materials. 
 - Parts starting with B need to be purchased. 
-- Parts starting with C need to 3D printed (see below for images of the parts). These parts can be found in the [3D prints and CAD files folder](https://github.com/kelvinchow23/the-cure/tree/main/mechanical/3D prints and CAD files)). 
-- The part starting with D needs to be assembled (see insturctions in the [electrical folder](https://github.com/kelvinchow23/the-cure/tree/main/electrical))
+- Parts starting with C need to be 3D printed (see below for images of the parts). These parts can be found in the [3D prints and CAD files folder](https://github.com/kelvinchow23/the-cure/tree/main/mechanical/3D%20prints%20and%20CAD%20files).
+- The part starting with D needs to be assembled (see instructions in the [electrical folder](https://github.com/kelvinchow23/the-cure/tree/main/electrical)).
+
 
 ### 3D Printed Parts
 
